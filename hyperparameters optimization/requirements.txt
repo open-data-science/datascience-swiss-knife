@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+xgboost
+git+https://github.com/fmfn/BayesianOptimization.git
